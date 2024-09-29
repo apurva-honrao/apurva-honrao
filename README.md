@@ -11,5 +11,3 @@ I'm Apurva, a Python developer 🐍 passionate about AI and Data Science. I enjo
 ---
 [![](https://visitcount.itsvg.in/api?id=apurva-honrao&icon=2&color=12)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apurva-honrao) 
